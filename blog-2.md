@@ -1,4 +1,4 @@
-# Building for Scale: How the 4 Pillars of OOP Tame Complexity in TypeScript
+## How the four pillars of OOP help to manage logic and complexity in TypeScript
 
 ## Introduction
 As TypeScript projects grow from simple scripts into massive enterprise applications, managing logic and maintaining code quality becomes a monumental challenge.This is where Object-Oriented Programming (OOP) comes to the rescue. By using the four pillars of OOP—Encapsulation, Abstraction, Inheritance, and Polymorphism developer can organize code into predictable, modular, and highly scalable architectures.
